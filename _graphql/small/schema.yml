@@ -1,0 +1,61 @@
+models:
+  AliasPage:
+    fields: '*'
+    operations: '*'
+  AtquePage:
+    fields: '*'
+    operations: '*'
+  BeataePage:
+    fields: '*'
+    operations: '*'
+  ConsecteturPage:
+    fields: '*'
+    operations: '*'
+  DolorPage:
+    fields: '*'
+    operations: '*'
+  EtPage:
+    fields: '*'
+    operations: '*'
+  EvenietPage:
+    fields: '*'
+    operations: '*'
+  IustoPage:
+    fields: '*'
+    operations: '*'
+  MinusPage:
+    fields: '*'
+    operations: '*'
+  NequePage:
+    fields: '*'
+    operations: '*'
+  OditPage:
+    fields: '*'
+    operations: '*'
+  OmnisPage:
+    fields: '*'
+    operations: '*'
+  OptioPage:
+    fields: '*'
+    operations: '*'
+  SuntPage:
+    fields: '*'
+    operations: '*'
+  UndePage:
+    fields: '*'
+    operations: '*'
+  VeroPage:
+    fields: '*'
+    operations: '*'
+  VoluptatemPage:
+    fields: '*'
+    operations: '*'
+  VoluptatePage:
+    fields: '*'
+    operations: '*'
+  VoluptatesPage:
+    fields: '*'
+    operations: '*'
+  VoluptatibusPage:
+    fields: '*'
+    operations: '*'

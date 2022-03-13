@@ -1,0 +1,16 @@
+---
+Name: graphql-benchmark
+After: '#graphqlconfig'
+Only:
+  classexists: 'SilverStripe\GraphQL\Schema\Schema'
+---
+SilverStripe\Control\Director:
+  rules:
+    'small/graphql': '%$SilverStripe\GraphQL\Controller.small'
+
+
+SilverStripe\GraphQL\Schema\Schema:
+  schemas:
+    default:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/small'
