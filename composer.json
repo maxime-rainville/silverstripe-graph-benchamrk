@@ -1,0 +1,13 @@
+{
+    "name": "maxime-rainville/silverstripe-graphql-benchamrk",
+    "description": "Create fake Graphql schema to benchmark sizes",
+    "type": "silverstripe-vendormodule",
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "MaximeRainville\\SilverstripeGraphqlBenchamrk\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
