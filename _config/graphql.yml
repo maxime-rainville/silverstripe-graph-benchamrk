@@ -1,0 +1,36 @@
+---
+Name: graphql-benchmark
+After: '#graphqlconfig'
+Only:
+    classexists: 'SilverStripe\GraphQL\Schema\Schema'
+---
+SilverStripe\Control\Director:
+  rules:
+    'tiny/graphql': '%$SilverStripe\GraphQL\Controller.tiny'
+    'small/graphql': '%$SilverStripe\GraphQL\Controller.small'
+    'medium/graphql': '%$SilverStripe\GraphQL\Controller.medium'
+    'big/graphql': '%$SilverStripe\GraphQL\Controller.big'
+    'verybig/graphql': '%$SilverStripe\GraphQL\Controller.verybig'
+    'gigantic/graphql': '%$SilverStripe\GraphQL\Controller.gigantic'
+
+SilverStripe\GraphQL\Schema\Schema:
+  schemas:
+    tiny:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/tiny'
+    small:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/small'
+    medium:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/medium'
+    big:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/big'
+    verybig:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/verybig'
+    gigantic:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/gigantic'
+

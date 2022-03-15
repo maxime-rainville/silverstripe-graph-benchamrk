@@ -1,0 +1,121 @@
+models:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasAliquidMolestiae:
+    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NesciuntVoluptatemAut:
+    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ItaqueIpsaFacere:
+    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuaeOmnisNumquam:
+    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ImpeditNobisSed:
+    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true

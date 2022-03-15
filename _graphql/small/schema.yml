@@ -1,61 +1,341 @@
 models:
-  AliasPage:
-    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasAliquidMolestiae:
     operations: '*'
-  AtquePage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NesciuntVoluptatemAut:
     operations: '*'
-  BeataePage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ItaqueIpsaFacere:
     operations: '*'
-  ConsecteturPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuaeOmnisNumquam:
     operations: '*'
-  DolorPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ImpeditNobisSed:
     operations: '*'
-  EtPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutUtMaiores:
     operations: '*'
-  EvenietPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CorruptiEtLabore:
     operations: '*'
-  IustoPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UndeDoloremMolestias:
     operations: '*'
-  MinusPage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemDignissimosCommodi:
     operations: '*'
-  NequePage:
-    fields: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NobisPorroVelit:
     operations: '*'
-  OditPage:
-    fields: '*'
-    operations: '*'
-  OmnisPage:
-    fields: '*'
-    operations: '*'
-  OptioPage:
-    fields: '*'
-    operations: '*'
-  SuntPage:
-    fields: '*'
-    operations: '*'
-  UndePage:
-    fields: '*'
-    operations: '*'
-  VeroPage:
-    fields: '*'
-    operations: '*'
-  VoluptatemPage:
-    fields: '*'
-    operations: '*'
-  VoluptatePage:
-    fields: '*'
-    operations: '*'
-  VoluptatesPage:
-    fields: '*'
-    operations: '*'
-  VoluptatibusPage:
-    fields: '*'
-    operations: '*'
+    fields:
+      id: true
+      aStringValue: true
+      numeric: true
+      trueOrFalse: true
+      myNovel: true
+      myNovelWithFormattedContent: true
+      showMeTheMoney: true
+      listOfThings: true
+      yourTimeWillCome: true
+      splintingNumber: true
+      inTheYearOfThyLord: true
+      voluptasAliquidMolestiae: true
+      voluptasAliquidMolestiaes: true
+      nesciuntVoluptatemAut: true
+      nesciuntVoluptatemAuts: true
+      itaqueIpsaFacere: true
+      itaqueIpsaFaceres: true
+      quaeOmnisNumquam: true
+      quaeOmnisNumquams: true
+      impeditNobisSed: true
+      impeditNobisSeds: true
+      autUtMaiores: true
+      autUtMaioress: true
+      corruptiEtLabore: true
+      corruptiEtLabores: true
+      undeDoloremMolestias: true
+      undeDoloremMolestiass: true
+      voluptatemDignissimosCommodi: true
+      voluptatemDignissimosCommodis: true
+      nobisPorroVelit: true
+      nobisPorroVelits: true
