@@ -58,7 +58,7 @@ class SchemaCreatorTask extends BuildTask
         $siblings = $this->getSiblings($count);
         $siblingGroups = array_reduce($siblings, function ($carry, $sibling) {
             $index = sizeof($carry) - 1;
-            if (sizeof($carry[$index]) > 20) {
+            if (sizeof($carry[$index]) > 4) {
                 $carry[] = [];
                 $index++;
             }
@@ -177,10 +177,22 @@ PHP;
         }
 
         $schemas = self::config()->get('schemas');
+        $injectorDef = '';
         $directorRules = '';
         $schemaSrc = '';
 
         foreach ($schemas as $schemaKey => $size) {
+            $injectorDef .= <<<YML
+  SilverStripe\\GraphQL\\Schema\\Schema.$schemaKey:
+    class: SilverStripe\\GraphQL\\Schema\\Schema
+    constructor:
+      schemaKey: $schemaKey
+  SilverStripe\\GraphQL\\Controller.$schemaKey:
+    class: SilverStripe\\GraphQL\\Controller
+    constructor:
+      schema: $schemaKey
+
+YML;
             $directorRules .= "    '$schemaKey/graphql': '%\$SilverStripe\\GraphQL\\Controller.$schemaKey'\n";
             $schemaSrc .= <<<YML
     $schemaKey:
@@ -197,6 +209,10 @@ After: '#graphqlconfig'
 Only:
     classexists: 'SilverStripe\GraphQL\Schema\Schema'
 ---
+
+SilverStripe\Core\Injector\Injector:
+$injectorDef
+
 SilverStripe\Control\Director:
   rules:
 $directorRules
@@ -256,7 +272,7 @@ YML;
 
         foreach ($siblings as $sibling) {
             $yml .= <<<YML
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\\$sibling:
+  MaximeRainville\\SilverStripeGraphQLBenchmark\\Models\\$sibling:
     operations: '*'
     fields:
       id: true

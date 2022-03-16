@@ -31,50 +31,18 @@ class QuoNequeMagnam extends DataObject
     ];
 
     private static $has_one = [
-        "AspernaturNesciuntQuam" => AspernaturNesciuntQuam::class,
-        "PerferendisItaqueEt" => PerferendisItaqueEt::class,
-        "DolorumDoloremQuis" => DolorumDoloremQuis::class,
-        "AdAutemPariatur" => AdAutemPariatur::class,
-        "QuiEtUt" => QuiEtUt::class,
-        "ExcepturiIpsumExercitationem" => ExcepturiIpsumExercitationem::class,
-        "LaboriosamVoluptatibusAccusamus" => LaboriosamVoluptatibusAccusamus::class,
-        "QuoEiusAsperiores" => QuoEiusAsperiores::class,
+        "TotamAutEt" => TotamAutEt::class,
+        "LiberoQuisquamIste" => LiberoQuisquamIste::class,
+        "RationeMinusAnimi" => RationeMinusAnimi::class,
         "QuoNequeMagnam" => QuoNequeMagnam::class,
-        "DistinctioVeniamEt" => DistinctioVeniamEt::class,
-        "IureQuiVelit" => IureQuiVelit::class,
-        "UtIustoLaborum" => UtIustoLaborum::class,
-        "SolutaRerumOfficiis" => SolutaRerumOfficiis::class,
-        "DoloribusCorporisCum" => DoloribusCorporisCum::class,
-        "VoluptatumItaqueVitae" => VoluptatumItaqueVitae::class,
-        "OmnisDolorVeritatis" => OmnisDolorVeritatis::class,
-        "QuidemUndeIpsa" => QuidemUndeIpsa::class,
-        "OfficiisSintVoluptatem" => OfficiisSintVoluptatem::class,
-        "PariaturQuiaMagnam" => PariaturQuiaMagnam::class,
-        "RationeCorruptiEius" => RationeCorruptiEius::class,
-        "SuntNamSed" => SuntNamSed::class
+        "QuibusdamLaboreConsequatur" => QuibusdamLaboreConsequatur::class
     ];
 
     private static $has_many = [
-        "AspernaturNesciuntQuams" => AspernaturNesciuntQuam::class,
-        "PerferendisItaqueEts" => PerferendisItaqueEt::class,
-        "DolorumDoloremQuiss" => DolorumDoloremQuis::class,
-        "AdAutemPariaturs" => AdAutemPariatur::class,
-        "QuiEtUts" => QuiEtUt::class,
-        "ExcepturiIpsumExercitationems" => ExcepturiIpsumExercitationem::class,
-        "LaboriosamVoluptatibusAccusamuss" => LaboriosamVoluptatibusAccusamus::class,
-        "QuoEiusAsperioress" => QuoEiusAsperiores::class,
+        "TotamAutEts" => TotamAutEt::class,
+        "LiberoQuisquamIstes" => LiberoQuisquamIste::class,
+        "RationeMinusAnimis" => RationeMinusAnimi::class,
         "QuoNequeMagnams" => QuoNequeMagnam::class,
-        "DistinctioVeniamEts" => DistinctioVeniamEt::class,
-        "IureQuiVelits" => IureQuiVelit::class,
-        "UtIustoLaborums" => UtIustoLaborum::class,
-        "SolutaRerumOfficiiss" => SolutaRerumOfficiis::class,
-        "DoloribusCorporisCums" => DoloribusCorporisCum::class,
-        "VoluptatumItaqueVitaes" => VoluptatumItaqueVitae::class,
-        "OmnisDolorVeritatiss" => OmnisDolorVeritatis::class,
-        "QuidemUndeIpsas" => QuidemUndeIpsa::class,
-        "OfficiisSintVoluptatems" => OfficiisSintVoluptatem::class,
-        "PariaturQuiaMagnams" => PariaturQuiaMagnam::class,
-        "RationeCorruptiEiuss" => RationeCorruptiEius::class,
-        "SuntNamSeds" => SuntNamSed::class
+        "QuibusdamLaboreConsequaturs" => QuibusdamLaboreConsequatur::class
     ];
 }

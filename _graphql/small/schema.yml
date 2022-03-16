@@ -1,5 +1,5 @@
 models:
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasAliquidMolestiae:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasQuiDistinctio:
     operations: '*'
     fields:
       id: true
@@ -13,27 +13,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NesciuntVoluptatemAut:
+      voluptasQuiDistinctio: true
+      voluptasQuiDistinctios: true
+      accusantiumExercitationemDolor: true
+      accusantiumExercitationemDolors: true
+      cumQuiDebitis: true
+      cumQuiDebitiss: true
+      eosVoluptasPossimus: true
+      eosVoluptasPossimuss: true
+      isteSitFugit: true
+      isteSitFugits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusantiumExercitationemDolor:
     operations: '*'
     fields:
       id: true
@@ -47,27 +37,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ItaqueIpsaFacere:
+      voluptasQuiDistinctio: true
+      voluptasQuiDistinctios: true
+      accusantiumExercitationemDolor: true
+      accusantiumExercitationemDolors: true
+      cumQuiDebitis: true
+      cumQuiDebitiss: true
+      eosVoluptasPossimus: true
+      eosVoluptasPossimuss: true
+      isteSitFugit: true
+      isteSitFugits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumQuiDebitis:
     operations: '*'
     fields:
       id: true
@@ -81,27 +61,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuaeOmnisNumquam:
+      voluptasQuiDistinctio: true
+      voluptasQuiDistinctios: true
+      accusantiumExercitationemDolor: true
+      accusantiumExercitationemDolors: true
+      cumQuiDebitis: true
+      cumQuiDebitiss: true
+      eosVoluptasPossimus: true
+      eosVoluptasPossimuss: true
+      isteSitFugit: true
+      isteSitFugits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosVoluptasPossimus:
     operations: '*'
     fields:
       id: true
@@ -115,27 +85,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ImpeditNobisSed:
+      voluptasQuiDistinctio: true
+      voluptasQuiDistinctios: true
+      accusantiumExercitationemDolor: true
+      accusantiumExercitationemDolors: true
+      cumQuiDebitis: true
+      cumQuiDebitiss: true
+      eosVoluptasPossimus: true
+      eosVoluptasPossimuss: true
+      isteSitFugit: true
+      isteSitFugits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IsteSitFugit:
     operations: '*'
     fields:
       id: true
@@ -149,27 +109,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutUtMaiores:
+      voluptasQuiDistinctio: true
+      voluptasQuiDistinctios: true
+      accusantiumExercitationemDolor: true
+      accusantiumExercitationemDolors: true
+      cumQuiDebitis: true
+      cumQuiDebitiss: true
+      eosVoluptasPossimus: true
+      eosVoluptasPossimuss: true
+      isteSitFugit: true
+      isteSitFugits: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaDignissimosLaboriosam:
     operations: '*'
     fields:
       id: true
@@ -183,27 +133,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CorruptiEtLabore:
+      eaDignissimosLaboriosam: true
+      eaDignissimosLaboriosams: true
+      suntEstNumquam: true
+      suntEstNumquams: true
+      errorUtQui: true
+      errorUtQuis: true
+      consequunturAperiamEst: true
+      consequunturAperiamEsts: true
+      modiConsecteturOfficiis: true
+      modiConsecteturOfficiiss: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntEstNumquam:
     operations: '*'
     fields:
       id: true
@@ -217,27 +157,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UndeDoloremMolestias:
+      eaDignissimosLaboriosam: true
+      eaDignissimosLaboriosams: true
+      suntEstNumquam: true
+      suntEstNumquams: true
+      errorUtQui: true
+      errorUtQuis: true
+      consequunturAperiamEst: true
+      consequunturAperiamEsts: true
+      modiConsecteturOfficiis: true
+      modiConsecteturOfficiiss: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ErrorUtQui:
     operations: '*'
     fields:
       id: true
@@ -251,27 +181,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemDignissimosCommodi:
+      eaDignissimosLaboriosam: true
+      eaDignissimosLaboriosams: true
+      suntEstNumquam: true
+      suntEstNumquams: true
+      errorUtQui: true
+      errorUtQuis: true
+      consequunturAperiamEst: true
+      consequunturAperiamEsts: true
+      modiConsecteturOfficiis: true
+      modiConsecteturOfficiiss: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequunturAperiamEst:
     operations: '*'
     fields:
       id: true
@@ -285,27 +205,17 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NobisPorroVelit:
+      eaDignissimosLaboriosam: true
+      eaDignissimosLaboriosams: true
+      suntEstNumquam: true
+      suntEstNumquams: true
+      errorUtQui: true
+      errorUtQuis: true
+      consequunturAperiamEst: true
+      consequunturAperiamEsts: true
+      modiConsecteturOfficiis: true
+      modiConsecteturOfficiiss: true
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ModiConsecteturOfficiis:
     operations: '*'
     fields:
       id: true
@@ -319,23 +229,13 @@ models:
       yourTimeWillCome: true
       splintingNumber: true
       inTheYearOfThyLord: true
-      voluptasAliquidMolestiae: true
-      voluptasAliquidMolestiaes: true
-      nesciuntVoluptatemAut: true
-      nesciuntVoluptatemAuts: true
-      itaqueIpsaFacere: true
-      itaqueIpsaFaceres: true
-      quaeOmnisNumquam: true
-      quaeOmnisNumquams: true
-      impeditNobisSed: true
-      impeditNobisSeds: true
-      autUtMaiores: true
-      autUtMaioress: true
-      corruptiEtLabore: true
-      corruptiEtLabores: true
-      undeDoloremMolestias: true
-      undeDoloremMolestiass: true
-      voluptatemDignissimosCommodi: true
-      voluptatemDignissimosCommodis: true
-      nobisPorroVelit: true
-      nobisPorroVelits: true
+      eaDignissimosLaboriosam: true
+      eaDignissimosLaboriosams: true
+      suntEstNumquam: true
+      suntEstNumquams: true
+      errorUtQui: true
+      errorUtQuis: true
+      consequunturAperiamEst: true
+      consequunturAperiamEsts: true
+      modiConsecteturOfficiis: true
+      modiConsecteturOfficiiss: true
