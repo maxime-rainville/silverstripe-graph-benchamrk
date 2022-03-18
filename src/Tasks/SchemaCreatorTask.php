@@ -226,9 +226,9 @@ class SchemaCreatorTask extends BuildTask
         // We want a mixed of versioned, non-versioned and versioned unstage objects
         $rand = rand(0, 99);
         $ratios = self::config()->get('versioned_ratios');
-        if ($rand > $ratios['unversioned'] + $ratios['versioned']) {
+        if ($rand >= $ratios['unversioned'] + $ratios['versioned']) {
             $extensions = "Versioned::class . '.versioned',";
-        } elseif($rand > $ratios['unversioned']) {
+        } elseif($rand >= $ratios['unversioned']) {
             $extensions = "Versioned::class,";
         } else {
             $extensions = '';
