@@ -6,23 +6,83 @@ Only:
 ---
 
 SilverStripe\Core\Injector\Injector:
-  SilverStripe\GraphQL\Schema\Schema.ninetyfifth:
+  SilverStripe\GraphQL\Schema\Schema.tiny:
     class: SilverStripe\GraphQL\Schema\Schema
     constructor:
-      schemaKey: ninetyfifth
-  SilverStripe\GraphQL\Controller.ninetyfifth:
+      schemaKey: tiny
+  SilverStripe\GraphQL\Controller.tiny:
     class: SilverStripe\GraphQL\Controller
     constructor:
-      schema: ninetyfifth
+      schema: tiny
+  SilverStripe\GraphQL\Schema\Schema.small:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: small
+  SilverStripe\GraphQL\Controller.small:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: small
+  SilverStripe\GraphQL\Schema\Schema.medium:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: medium
+  SilverStripe\GraphQL\Controller.medium:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: medium
+  SilverStripe\GraphQL\Schema\Schema.big:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: big
+  SilverStripe\GraphQL\Controller.big:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: big
+  SilverStripe\GraphQL\Schema\Schema.verybig:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: verybig
+  SilverStripe\GraphQL\Controller.verybig:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: verybig
+  SilverStripe\GraphQL\Schema\Schema.gigantic:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: gigantic
+  SilverStripe\GraphQL\Controller.gigantic:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: gigantic
 
 
 SilverStripe\Control\Director:
   rules:
-    'ninetyfifth/graphql': '%$SilverStripe\GraphQL\Controller.ninetyfifth'
+    'tiny/graphql': '%$SilverStripe\GraphQL\Controller.tiny'
+    'small/graphql': '%$SilverStripe\GraphQL\Controller.small'
+    'medium/graphql': '%$SilverStripe\GraphQL\Controller.medium'
+    'big/graphql': '%$SilverStripe\GraphQL\Controller.big'
+    'verybig/graphql': '%$SilverStripe\GraphQL\Controller.verybig'
+    'gigantic/graphql': '%$SilverStripe\GraphQL\Controller.gigantic'
 
 SilverStripe\GraphQL\Schema\Schema:
   schemas:
-    ninetyfifth:
+    tiny:
       src:
-        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/ninetyfifth'
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/tiny'
+    small:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/small'
+    medium:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/medium'
+    big:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/big'
+    verybig:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/verybig'
+    gigantic:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/gigantic'
 
