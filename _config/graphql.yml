@@ -1,0 +1,40 @@
+---
+Name: graphql-benchmark
+After: '#graphqlconfig'
+Only:
+    classexists: 'SilverStripe\GraphQL\Schema\Schema'
+---
+
+SilverStripe\Core\Injector\Injector:
+  SilverStripe\GraphQL\Schema\Schema.tiny:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: tiny
+  SilverStripe\GraphQL\Controller.tiny:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: tiny
+  SilverStripe\GraphQL\Schema\Schema.small:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: small
+  SilverStripe\GraphQL\Controller.small:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: small
+
+
+SilverStripe\Control\Director:
+  rules:
+    'tiny/graphql': '%$SilverStripe\GraphQL\Controller.tiny'
+    'small/graphql': '%$SilverStripe\GraphQL\Controller.small'
+
+SilverStripe\GraphQL\Schema\Schema:
+  schemas:
+    tiny:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/tiny'
+    small:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/small'
+
