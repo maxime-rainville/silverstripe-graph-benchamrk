@@ -50,10 +50,6 @@ class SchemaCreatorTask extends BuildTask
     private static $schemas = [
         'tiny' => 5,
         'small' => 10,
-        'medium' => 40,
-        'big' => 100,
-        'verybig' => 250,
-        'gigantic' => 500,
     ];
 
     /**
