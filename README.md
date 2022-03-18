@@ -23,6 +23,11 @@ Look at the config option on [`SchemaCreatorTask`](src/Tasks/SchemaCreatorTask.p
 
 If you want to be able to deploy this somewhere, you'll have to run the task and commit your changes to a fork.
 
+## What about data
+The dummy data object will try to generate some random data and random relationships on dev/build.
+
+By default, we'll generate 5 instances of each DataObject class and randomly link them up in relationships.
+
 ## What schema will be generated out of the box?
 By default, the module doesn't have any schemas or DataObjects. You have to run the task to get something.
 
