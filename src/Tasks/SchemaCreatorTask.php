@@ -138,8 +138,8 @@ class SchemaCreatorTask extends BuildTask
      */
     private function generateClassName(): string
     {
-        // We concatenate 3 fake words to generate a UpperCamelCase name
-        return ucfirst($this->faker->word) . ucfirst($this->faker->word) . ucfirst($this->faker->word);
+        // We concatenate 2 fake words to generate a UpperCamelCase name
+        return ucfirst($this->faker->word) . ucfirst($this->faker->word);
     }
 
     /**
