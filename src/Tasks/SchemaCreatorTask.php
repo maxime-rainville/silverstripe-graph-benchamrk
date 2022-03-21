@@ -353,8 +353,13 @@ YML;
         foreach ($schemas as $schemaKey => $size) {
             try {
                 $ymlCode = "models:\n";
+                $count = 0;
                 foreach ($siblingGroups as $siblings) {
+                    if ($count >= $size) {
+                        break;
+                    }
                     $ymlCode .= $this->buildOneSchema($siblings);
+                    $count += sizeof($siblings);
                 }
 
                 $schemaPath = $configPath . DIRECTORY_SEPARATOR . $schemaKey;
