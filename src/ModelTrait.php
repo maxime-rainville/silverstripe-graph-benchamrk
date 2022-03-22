@@ -78,9 +78,9 @@ trait ModelTrait {
                 // We give each ID a 50-50 chance of being added to the relation
                 /** @var ManyManyList $rel */
                 $rel = $obj->{$name}();
-                for ($i = 1; $i <= 5; $i++) {
+                for ($j = 1; $j <= 5; $j++) {
                     if ($faker->boolean()) {
-                        $rel->add($i);
+                        $rel->add($j);
                     }
                 }
             }
