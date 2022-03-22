@@ -35,9 +35,10 @@ trait ModelTrait {
             return;
         }
 
+        $recordPerDataObject = 5;
 
         // We'll create 5 records for each DataObject class
-        for ($i = 0; $i < 5; $i++) {
+        for ($i = 0; $i < $recordPerDataObject; $i++) {
             /** @var DataObject $obj */
             $obj = Injector::inst()->create(static::class);
 
@@ -58,7 +59,7 @@ trait ModelTrait {
             foreach (static::$has_one as $name => $class) {
                 // It doesn't matter if the other end of this relation does not
                 // exist ... it will later
-                $obj->{$name . 'ID'} = $faker->numberBetween(1, 5);
+                $obj->{$name . 'ID'} = $faker->numberBetween(1, $recordPerDataObject);
             }
 
             $obj->write();
@@ -74,11 +75,11 @@ trait ModelTrait {
 
 
                 // We add objects to our relations
-                // We know they'll be 5 IDs form 1 to 5
+                // We know they'll be `$recordPerDataObject` IDs
                 // We give each ID a 50-50 chance of being added to the relation
                 /** @var ManyManyList $rel */
                 $rel = $obj->{$name}();
-                for ($j = 1; $j <= 5; $j++) {
+                for ($j = 1; $j <= $recordPerDataObject; $j++) {
                     if ($faker->boolean()) {
                         $rel->add($j);
                     }
