@@ -1,0 +1,121 @@
+models:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequaturAutem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HarumQuis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiQuos:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseRerum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutEligendi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuoEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiCorporis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdQuas:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuodMollitia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilFugit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IureQuo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitVoluptatem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SintAtque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugiatQuo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SedOdio:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstNulla:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HarumAliquam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasCupiditate:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntDolor:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutItaque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AnimiExcepturi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MagnamDolores:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasCulpa:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MaioresEum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiAut:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RemUt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumConsequatur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutUt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemNatus:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtRatione:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ImpeditEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtAliquid:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuidemVero:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuoExercitationem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitQuam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ArchitectoSed:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaqueQuia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemAlias:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NumquamSit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloribusOdit:
+    operations: '*'
+    fields: '*'

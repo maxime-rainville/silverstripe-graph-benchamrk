@@ -35,7 +35,7 @@ trait ModelTrait {
             return;
         }
 
-        $recordPerDataObject = 5;
+        $recordPerDataObject = 1000;
 
         // We'll create 5 records for each DataObject class
         for ($i = 0; $i < $recordPerDataObject; $i++) {

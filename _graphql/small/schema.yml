@@ -1,0 +1,31 @@
+models:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequaturAutem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HarumQuis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiQuos:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseRerum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutEligendi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuoEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiCorporis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdQuas:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuodMollitia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilFugit:
+    operations: '*'
+    fields: '*'
