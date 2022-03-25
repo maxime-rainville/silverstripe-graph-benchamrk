@@ -15,12 +15,8 @@ use SilverStripe\ORM\ManyManyList;
  * @property array $items
  * @property array $remaining
  */
-class MyJob extends AbstractQueuedJob
+class PopulateRecords extends AbstractQueuedJob
 {
-    public function hydrate(array $items): void
-    {
-        $this->items = $items;
-    }
 
     /**
      * @return string
@@ -32,7 +28,8 @@ class MyJob extends AbstractQueuedJob
 
     public function setup(): void
     {
-        $this->remaining = $this->findAllModels();
+        $this->items = $this->findAllModels();
+        $this->remaining = $this->items;
 
         // Set the total steps to the number of items we want to process
         $this->totalSteps = count($this->items);
@@ -74,25 +71,27 @@ class MyJob extends AbstractQueuedJob
     private function findAllModels(): array
     {
         return array_filter(ClassInfo::allClasses(), function ($class) {
-            return stripos('MaximeRainville\SilverStripeGraphQLBenchmark\Models', $class) === 0;
+            return stripos($class, 'MaximeRainville\\SilverStripeGraphQLBenchmark\\Models') === 0;
         });
     }
 
-    public function populate(string $class)
+    public function populate(string $mainclass)
     {
+        echo "processing $mainclass\n";
+
         $faker = Factory::create();
 
         // If there's some pre-existing data, don't recreate it
-        if (DataObject::get($class)->count() > 0) {
+        if (DataObject::get($mainclass)->count() > 0) {
             return;
         }
 
-        $recordPerDataObject = 1;
+        $recordPerDataObject = 1000;
 
         // We'll create records for each DataObject class
         for ($i = 0; $i < $recordPerDataObject; $i++) {
             /** @var DataObject $obj */
-            $obj = Injector::inst()->create($class);
+            $obj = Injector::inst()->create($mainclass);
 
             $obj->AStringValue = $faker->sentence();
             $obj->Numeric = $faker->numberBetween(1, 100);
@@ -121,7 +120,7 @@ class MyJob extends AbstractQueuedJob
             foreach ($manyManys as $name => $class) {
                 // If tho other DataObject haven't been created yet, we bail
                 // The relationship will be created on the next pass
-                if (DataObject::get($class)->count() === 0) {
+                if (!is_string($class) || DataObject::get($class)->count() === 0) {
                     continue;
                 }
 
