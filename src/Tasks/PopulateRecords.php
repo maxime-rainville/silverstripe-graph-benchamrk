@@ -81,15 +81,18 @@ class PopulateRecords extends AbstractQueuedJob
 
         $faker = Factory::create();
 
+        $recordPerDataObject = 100;
+
         // If there's some pre-existing data, don't recreate it
-        if (DataObject::get($mainclass)->count() > 0) {
+        $count = DataObject::get($mainclass)->count();
+        if ($count >= $recordPerDataObject) {
             return;
         }
 
-        $recordPerDataObject = 10;
+
 
         // We'll create records for each DataObject class
-        for ($i = 0; $i < $recordPerDataObject; $i++) {
+        for ($i = $count; $i < $recordPerDataObject; $i++) {
             /** @var DataObject $obj */
             $obj = Injector::inst()->create($mainclass);
 
