@@ -86,7 +86,7 @@ class PopulateRecords extends AbstractQueuedJob
             return;
         }
 
-        $recordPerDataObject = 1000;
+        $recordPerDataObject = 10;
 
         // We'll create records for each DataObject class
         for ($i = 0; $i < $recordPerDataObject; $i++) {
