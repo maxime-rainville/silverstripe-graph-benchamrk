@@ -1,0 +1,28 @@
+---
+Name: graphql-benchmark
+After: '#graphqlconfig'
+Only:
+    classexists: 'SilverStripe\GraphQL\Schema\Schema'
+---
+
+SilverStripe\Core\Injector\Injector:
+  SilverStripe\GraphQL\Schema\Schema.ninetyfifth:
+    class: SilverStripe\GraphQL\Schema\Schema
+    constructor:
+      schemaKey: ninetyfifth
+  SilverStripe\GraphQL\Controller.ninetyfifth:
+    class: SilverStripe\GraphQL\Controller
+    constructor:
+      schema: ninetyfifth
+
+
+SilverStripe\Control\Director:
+  rules:
+    'ninetyfifth/graphql': '%$SilverStripe\GraphQL\Controller.ninetyfifth'
+
+SilverStripe\GraphQL\Schema\Schema:
+  schemas:
+    ninetyfifth:
+      src:
+        - 'maxime-rainville/silverstripe-graphql-benchmark: _graphql/ninetyfifth'
+

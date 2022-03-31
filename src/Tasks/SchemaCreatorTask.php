@@ -23,8 +23,8 @@ class SchemaCreatorTask extends BuildTask
      * @config
      */
     private static $versioned_ratios = [
-        'unversioned' => 45,
-        'versioned' => 45,
+        'unversioned' => 66,
+        'versioned' => 34,
     ];
 
     /**
@@ -48,12 +48,7 @@ class SchemaCreatorTask extends BuildTask
      * @config
      */
     private static $schemas = [
-        'tiny' => 5,
-        'small' => 10,
-        'medium' => 40,
-        'big' => 100,
-        'verybig' => 250,
-        'gigantic' => 500,
+        'ninetyfifth' => 186,
     ];
 
     /**
