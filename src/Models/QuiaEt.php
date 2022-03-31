@@ -15,19 +15,19 @@ class QuiaEt extends DataObject
     private static $table_name = 'QuiaEt';
 
     private static $has_one = [
-        "VoluptatemAutem" => VoluptatemAutem::class
+        "BlanditiisVoluptas" => BlanditiisVoluptas::class
     ];
 
     private static $has_many = [
-        "VoluptatemAutems" => VoluptatemAutem::class
+        "BlanditiisVoluptass" => BlanditiisVoluptas::class
     ];
 
     private static $many_many = [
-        "VoluptatemAutemManys" => VoluptatemAutem::class
+
     ];
 
     private static $belongs_many_many = [
-
+        "BlanditiisVoluptasManys" => BlanditiisVoluptas::class
     ];
 
     private static $extensions = [

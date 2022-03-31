@@ -15,15 +15,15 @@ class CorruptiEt extends DataObject
     private static $table_name = 'CorruptiEt';
 
     private static $has_one = [
-        "NumquamTempora" => NumquamTempora::class
+        "IpsaHic" => IpsaHic::class
     ];
 
     private static $has_many = [
-        "NumquamTemporas" => NumquamTempora::class
+        "IpsaHics" => IpsaHic::class
     ];
 
     private static $many_many = [
-        "NumquamTemporaManys" => NumquamTempora::class
+        "IpsaHicManys" => IpsaHic::class
     ];
 
     private static $belongs_many_many = [

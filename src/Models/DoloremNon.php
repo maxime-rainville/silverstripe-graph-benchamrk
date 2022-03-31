@@ -15,15 +15,15 @@ class DoloremNon extends DataObject
     private static $table_name = 'DoloremNon';
 
     private static $has_one = [
-        "QuasiProvident" => QuasiProvident::class
+        "ProvidentUt" => ProvidentUt::class
     ];
 
     private static $has_many = [
-        "QuasiProvidents" => QuasiProvident::class
+        "ProvidentUts" => ProvidentUt::class
     ];
 
     private static $many_many = [
-        "QuasiProvidentManys" => QuasiProvident::class
+        "ProvidentUtManys" => ProvidentUt::class
     ];
 
     private static $belongs_many_many = [

@@ -15,22 +15,22 @@ class InOmnis extends DataObject
     private static $table_name = 'InOmnis';
 
     private static $has_one = [
-        "VeroAut" => VeroAut::class
+        "EstQuo" => EstQuo::class
     ];
 
     private static $has_many = [
-        "VeroAuts" => VeroAut::class
+        "EstQuos" => EstQuo::class
     ];
 
     private static $many_many = [
-        "VeroAutManys" => VeroAut::class
+
     ];
 
     private static $belongs_many_many = [
-
+        "EstQuoManys" => EstQuo::class
     ];
 
     private static $extensions = [
-        
+        Versioned::class,
     ];
 }
