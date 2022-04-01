@@ -15,15 +15,21 @@ class DucimusMaiores extends DataObject
     private static $table_name = 'DucimusMaiores';
 
     private static $has_one = [
-        "EaqueSit" => EaqueSit::class
+        "UtAut" => UtAut::class,
+        "PraesentiumPerferendis" => PraesentiumPerferendis::class,
+        "SuntIn" => SuntIn::class
     ];
 
     private static $has_many = [
-        "EaqueSits" => EaqueSit::class
+        "UtAuts" => UtAut::class,
+        "PraesentiumPerferendiss" => PraesentiumPerferendis::class,
+        "SuntIns" => SuntIn::class
     ];
 
     private static $many_many = [
-        "EaqueSitManys" => EaqueSit::class
+        "UtAutManys" => UtAut::class,
+        "PraesentiumPerferendisManys" => PraesentiumPerferendis::class,
+        "SuntInManys" => SuntIn::class
     ];
 
     private static $belongs_many_many = [

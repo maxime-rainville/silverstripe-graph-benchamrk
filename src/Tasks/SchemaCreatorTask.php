@@ -35,7 +35,7 @@ class SchemaCreatorTask extends BuildTask
      *
      * @config
      */
-    private static $siblings_per_group = 2;
+    private static $siblings_per_group = 4;
 
     /**
      * A list of GraphQL Schemas to define. The key will be used for your

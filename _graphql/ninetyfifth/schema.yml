@@ -1,559 +1,559 @@
 models:
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TeneturCorporis:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumqueQui:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutemAperiam:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NullaAnimi:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OmnisPariatur:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuoUt:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloreIncidunt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutSaepe:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatumPlaceat:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporaEt:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosImpedit:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumNisi:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AssumendaQui:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstFugit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumqueQuibusdam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitDoloremque:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisquamVitae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HicMollitia:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PossimusConsectetur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EiusNobis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiaNulla:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CupiditateNeque:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ExQui:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PlaceatNon:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosDucimus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdIncidunt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ErrorVoluptatem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdipisciEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuasExpedita:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumMolestias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PlaceatPerspiciatis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MinimaConsequatur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BeataeVel:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NamRem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugiatQuaerat:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtQuae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MinusNon:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloremCum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BlanditiisVoluptas:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiaEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemRepellendus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuaeratVitae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloreVoluptatem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsecteturQuasi:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloremLaboriosam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EiusSaepe:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstQuo:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\InOmnis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DucimusMaiores:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaqueSit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuscipitConsequuntur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AnimiConsectetur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumIllo:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DictaSed:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AperiamAutem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OdioCum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EnimCupiditate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CupiditateMollitia:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutCum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OmnisEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NumquamCupiditate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MinusA:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresRerum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MollitiaCupiditate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ProvidentUt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloremNon:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ExcepturiMagnam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstPerferendis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IpsamOdio:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ItaqueDistinctio:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequaturNemo:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiNemo:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RationeRepudiandae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdipisciEius:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiaSunt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutPossimus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtVeritatis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NemoLabore:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresOdio:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemVoluptatem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtQuisquam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusantiumItaque:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HicNisi:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtIpsum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SolutaMolestias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EligendiEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusamusQuia:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtVeniam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AspernaturAccusamus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseQui:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MolestiaeEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumDolores:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IlloEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RepellatVelit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MolestiaeEarum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaQuibusdam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AliquamNam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtQuis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiaAut:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RerumCum:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumEt:
     operations: '*'
     fields: '*'
   MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstUllam:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugitPossimus:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RemSequi:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EnimIncidunt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ArchitectoDolore:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MagniSunt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaAut:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BeataeEt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OditAut:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsecteturFacilis:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugaCorrupti:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtUt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemAut:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasDoloremque:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutSimilique:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NecessitatibusEt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NostrumFacilis:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtVoluptatem:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtAut:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuoAdipisci:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DucimusMaiores:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BlanditiisDignissimos:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PraesentiumPerferendis:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumQuia:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntIn:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EnimFugit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IpsumOccaecati:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosAdipisci:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SapienteSaepe:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiMinus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MolestiaeQuod:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UndeNihil:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ExEst:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BeataeDeserunt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstPariatur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiRatione:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UllamReprehenderit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilCupiditate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NonVoluptatem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DistinctioRepudiandae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumDucimus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumUnde:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MagniDolorem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporeAut:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TeneturVoluptatibus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DolorFugit:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DelectusQuam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisEnim:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresExpedita:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OmnisNesciunt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitFugiat:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DolorUnde:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdAccusamus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OccaecatiPossimus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntNeque:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AliquidOmnis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdIn:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EarumMolestias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtNam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UndeTempore:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusantiumMinus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NobisAlias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaboreCupiditate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilAut:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiisOfficia:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PerferendisTemporibus:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutemNihil:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseMolestias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IdMolestias:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AmetQuaerat:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CorruptiMolestiae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AssumendaEst:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PariaturSed:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RerumModi:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporibusBeatae:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CupiditateEos:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugitRerum:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugitRem:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NamAmet:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PossimusAut:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PraesentiumTenetur:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IpsaHic:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CorruptiEt:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumQui:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaNon:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\InQuibusdam:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutIn:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporaIn:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NemoCorporis:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IureVoluptate:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SintQuia:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RationeNon:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuasNisi:
-    operations: '*'
-    fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstError:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LiberoTotam:
     operations: '*'
     fields: '*'
   MaximeRainville\SilverStripeGraphQLBenchmark\Models\EnimQui:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtSaepe:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IdQuasi:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresSit:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PerspiciatisEst:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PraesentiumEt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtImpedit:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasEt:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AspernaturIste:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequaturVoluptatem:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AtQuae:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumRecusandae:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EiusOfficia:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SaepeQui:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RerumFacilis:
     operations: '*'
     fields: '*'
-  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisLabore:
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosConsequuntur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MinimaPariatur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiaAtque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EiusFuga:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RepellendusLaboriosam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SequiVitae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiaDeleniti:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumId:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporaQuae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NullaEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuibusdamQuo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutemNihil:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OptioEveniet:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstSed:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SintRepellat:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisquamEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiIn:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuasiDucimus:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtRecusandae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstVeritatis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SedNon:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DeseruntVel:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtNemo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AtEius:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequaturOfficiis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\BeataeFuga:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasMollitia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuodBlanditiis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TotamQuas:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresNam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IpsamNulla:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VelitA:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NonDignissimos:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TeneturVelit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaqueId:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AdipisciSit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MolestiaeQui:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporibusConsequuntur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NonIn:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OmnisMolestiae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumqueLabore:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AliquidEveniet:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IsteEaque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseUt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SintQuia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AtqueEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NobisDolor:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutEveniet:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LiberoNesciunt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DictaUt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MinimaNemo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtEa:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OptioEum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TemporeBeatae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AnimiEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutA:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ErrorEaque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ReprehenderitEveniet:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CupiditateEum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EaTenetur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiNobis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutQui:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\HarumNon:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IpsumSaepe:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SaepeMagnam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SaepeEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NequeIn:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutFugit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ArchitectoTotam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiLaboriosam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtAb:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SedMolestiae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiVeniam:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntError:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaudantiumRerum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AutQuis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloremAsperiores:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AliquidMagni:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CorporisPorro:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilNesciunt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VeroDolorem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FacereLaborum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OditPerspiciatis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RepellatIusto:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\CumqueCommodi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresSed:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EosSaepe:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RecusandaeQuia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MollitiaQuis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UllamNihil:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AperiamNisi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ExQuaerat:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RerumSoluta:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuntEa:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitConsequatur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\TotamVoluptatem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NisiVoluptates:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PerspiciatisEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptasAd:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtAb:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiaEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PerspiciatisMinima:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AperiamError:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AtAutem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SitCumque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\InDolorum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VelDebitis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\PossimusFuga:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EsseSed:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresSint:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\RecusandaeQui:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ExplicaboRepellat:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisTempore:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatibusNisi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ModiAut:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DelenitiItaque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NihilIllo:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiaPerferendis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AmetOccaecati:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\IdUt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AbLaudantium:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SolutaVitae:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuisProvident:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FugitNihil:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuosVoluptatem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EstNon:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusamusTenetur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ModiVel:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OmnisDebitis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemNon:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\LaborumImpedit:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SedEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DelectusEst:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\OfficiisEa:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SuscipitPraesentium:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtNon:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\MolestiaeDolorum:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VelitAut:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuibusdamDolores:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VeniamCommodi:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\UtOccaecati:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\FacilisConsequuntur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatesMollitia:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\AccusantiumAut:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ConsequunturEt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiDolorem:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\SedAtque:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\NumquamConsequatur:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\ReiciendisSunt:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EumNulla:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\EtBlanditiis:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\QuiIpsa:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DoloresDistinctio:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VitaeRepellat:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\DelenitiEsse:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VoluptatemMinus:
+    operations: '*'
+    fields: '*'
+  MaximeRainville\SilverStripeGraphQLBenchmark\Models\VeritatisMollitia:
     operations: '*'
     fields: '*'

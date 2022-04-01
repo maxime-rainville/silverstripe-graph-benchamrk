@@ -15,15 +15,21 @@ class EnimQui extends DataObject
     private static $table_name = 'EnimQui';
 
     private static $has_one = [
-        "EstError" => EstError::class
+        "LiberoTotam" => LiberoTotam::class,
+        "IdQuasi" => IdQuasi::class,
+        "PerspiciatisEst" => PerspiciatisEst::class
     ];
 
     private static $has_many = [
-        "EstErrors" => EstError::class
+        "LiberoTotams" => LiberoTotam::class,
+        "IdQuasis" => IdQuasi::class,
+        "PerspiciatisEsts" => PerspiciatisEst::class
     ];
 
     private static $many_many = [
-        "EstErrorManys" => EstError::class
+        "LiberoTotamManys" => LiberoTotam::class,
+        "IdQuasiManys" => IdQuasi::class,
+        "PerspiciatisEstManys" => PerspiciatisEst::class
     ];
 
     private static $belongs_many_many = [

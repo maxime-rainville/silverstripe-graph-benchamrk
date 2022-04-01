@@ -15,11 +15,15 @@ class SintQuia extends DataObject
     private static $table_name = 'SintQuia';
 
     private static $has_one = [
-        "IureVoluptate" => IureVoluptate::class
+        "EsseUt" => EsseUt::class,
+        "AtqueEt" => AtqueEt::class,
+        "NobisDolor" => NobisDolor::class
     ];
 
     private static $has_many = [
-        "IureVoluptates" => IureVoluptate::class
+        "EsseUts" => EsseUt::class,
+        "AtqueEts" => AtqueEt::class,
+        "NobisDolors" => NobisDolor::class
     ];
 
     private static $many_many = [
@@ -27,7 +31,9 @@ class SintQuia extends DataObject
     ];
 
     private static $belongs_many_many = [
-        "IureVoluptateManys" => IureVoluptate::class
+        "EsseUtManys" => EsseUt::class,
+        "AtqueEtManys" => AtqueEt::class,
+        "NobisDolorManys" => NobisDolor::class
     ];
 
     private static $extensions = [

@@ -15,15 +15,21 @@ class AutemNihil extends DataObject
     private static $table_name = 'AutemNihil';
 
     private static $has_one = [
-        "EsseMolestias" => EsseMolestias::class
+        "OptioEveniet" => OptioEveniet::class,
+        "EstSed" => EstSed::class,
+        "SintRepellat" => SintRepellat::class
     ];
 
     private static $has_many = [
-        "EsseMolestiass" => EsseMolestias::class
+        "OptioEveniets" => OptioEveniet::class,
+        "EstSeds" => EstSed::class,
+        "SintRepellats" => SintRepellat::class
     ];
 
     private static $many_many = [
-        "EsseMolestiasManys" => EsseMolestias::class
+        "OptioEvenietManys" => OptioEveniet::class,
+        "EstSedManys" => EstSed::class,
+        "SintRepellatManys" => SintRepellat::class
     ];
 
     private static $belongs_many_many = [
@@ -31,6 +37,6 @@ class AutemNihil extends DataObject
     ];
 
     private static $extensions = [
-        Versioned::class,
+        
     ];
 }

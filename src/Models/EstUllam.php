@@ -15,15 +15,21 @@ class EstUllam extends DataObject
     private static $table_name = 'EstUllam';
 
     private static $has_one = [
-        "FugitPossimus" => FugitPossimus::class
+        "TemporaEt" => TemporaEt::class,
+        "EumNisi" => EumNisi::class,
+        "EumEt" => EumEt::class
     ];
 
     private static $has_many = [
-        "FugitPossimuss" => FugitPossimus::class
+        "TemporaEts" => TemporaEt::class,
+        "EumNisis" => EumNisi::class,
+        "EumEts" => EumEt::class
     ];
 
     private static $many_many = [
-        "FugitPossimusManys" => FugitPossimus::class
+        "TemporaEtManys" => TemporaEt::class,
+        "EumNisiManys" => EumNisi::class,
+        "EumEtManys" => EumEt::class
     ];
 
     private static $belongs_many_many = [
